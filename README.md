@@ -1,2 +1,2 @@
-# flask-app
-simple flask app
+# flask
+flask app
